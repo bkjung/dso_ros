@@ -28,4 +28,7 @@
 *.out
 *.app
 
+# build folders
+bin/
+build/
 
